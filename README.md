@@ -1,5 +1,4 @@
-# restaurant-selector
-Dinner Decider
+## Dinner Decider
 To end the struggles of deciding what to eat
 One of the hardest parts about making plans to go out is deciding what to eat. This application is the perfect solution to end those planning problems, and can be used by anyone trying to decide where to go for a meal in the Vancouver area.
 
